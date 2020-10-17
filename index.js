@@ -1,2 +1,2 @@
-let name = "Hassan";
-console.log(name);
+let number = 4;
+console.log(number);
